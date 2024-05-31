@@ -1,6 +1,8 @@
 # ML-Pytorch
 My Machine Learning Codes (Pytorch)
 
-- Python version: 3.11.9
-- Pytorch version: 2.2.2
-- Keras version: 3.2.2
+### Used packages
+
+- Python version: 3.11.8
+- Pytorch version: 2.3.0
+- cuda version: 12.1 (optional, for gpu access)
